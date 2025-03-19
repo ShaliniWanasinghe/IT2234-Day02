@@ -7,9 +7,9 @@
 <b>📂 1_Array/ – JavaScript programs for array operations, including:</b><br>
 <ul>
   <li>Printing an array</li>
-  <img src = "github.com/user-attachments/assets/49b369f0-3b0a-44c1-89fb-c05594c9e413">
+  <img src = "https://github.com/user-attachments/assets/49b369f0-3b0a-44c1-89fb-c05594c9e413">
 
-![Screenshot 2025-03-18 201526](https://)
+![Screenshot 2025-03-18 201526]()
 
     
   <li>Finding common elements</li>
