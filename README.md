@@ -2,11 +2,16 @@
 <html>
 <body>
   <p>This repository contains JavaScript practical exercises for the IT2234 module. The exercises cover fundamental programming concepts such as arrays, JSON handling, and stack operations. The repository is structured into three sections for better organization.</p>
-<br><br>
+<br><
 <h5><b></b>Folder Structure:</h5></b>
 <b>📂 1_Array/ – JavaScript programs for array operations, including:</b><br>
 <ul>
   <li>Printing an array</li>
+  <img src = "github.com/user-attachments/assets/49b369f0-3b0a-44c1-89fb-c05594c9e413">
+
+![Screenshot 2025-03-18 201526](https://)
+
+    
   <li>Finding common elements</li>
   <li>Finding the maximum value in an array</li>
   <li>Finding target sum from array elements</li>
