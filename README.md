@@ -4,7 +4,7 @@
   <p>This repository contains JavaScript practical exercises for the IT2234 module. The exercises cover fundamental programming concepts such as arrays, JSON handling, and stack operations. The repository is structured into three sections for better organization.</p>
 
 <h5><b></b>Folder Structure:</h5></b>
-<b>📂 1_Array/ – JavaScript programs for array operations, including:</b><br>
+<b>📂 1_Arrays – JavaScript programs for array operations, including:</b><br>
 <ul>
   <li>Printing an array & Finding the common elements</li>
    <p>For this code i have modified ForEach to get the output along with it's index value of the array ,so the reader can understand the common element and it's origin more clearly.</p>
