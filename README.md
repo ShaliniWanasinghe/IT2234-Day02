@@ -2,7 +2,7 @@
 <html>
 <body>
   <p>This repository contains JavaScript practical exercises for the IT2234 module. The exercises cover fundamental programming concepts such as arrays, JSON handling, and stack operations. The repository is structured into three sections for better organization.</p>
-<br><
+
 <h5><b></b>Folder Structure:</h5></b>
 <b>📂 1_Array/ – JavaScript programs for array operations, including:</b><br>
 <ul>
@@ -44,6 +44,9 @@
   <li>Implementing push and pop operations</li>
   <li>Reversing an array using stack operations</li>
   <img src = "https://github.com/user-attachments/assets/1ce61632-59df-48da-a8c9-b5368394b255 ">
+
+
+  <p><b>For further details and explanations Plesae Contact Me</p></b>
 
   
 </ul>
